@@ -1,9 +1,9 @@
 <?php
 // تنظیمات دیتابیس
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'hesam-bot');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_NAME', 'volnamus_hesambot');
+define('DB_USER', 'volnamus_hesambot');
+define('DB_PASS', 'l,}FcNb&V0lR');
 
 // تنظیمات ربات
 $settings = [];
